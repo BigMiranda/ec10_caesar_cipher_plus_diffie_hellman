@@ -1,6 +1,8 @@
 # ec10_caesar_cipher_plus_diffie_hellman
 EC10: Diffie-Hellman + Caesar Cipher
 
+# Integrantes
+
 Matheus Vinicius Miranda Brito          081200024
 
 Gabriel Mendes Barbosa                  081200037
@@ -9,6 +11,7 @@ Gabriel Nunes Alves Santos              081200038
 
 Matheus Vital dos Santos de Oliveira    081210042
 
+---
 
 TCP Client-Server with Diffie-Hellman Key Exchange and Caesar Cipher
 This project implements a simple TCP client-server communication system with basic encryption using the Diffie-Hellman key exchange protocol combined with a Caesar cipher for message encryption and decryption.
