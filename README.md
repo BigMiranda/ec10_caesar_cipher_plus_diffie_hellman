@@ -5,7 +5,7 @@ EC10: Diffie-Hellman + Caesar Cipher
 
 Matheus Vinicius Miranda Brito          081200024
 
-Gabriel Mendes Barbosa                  081200037
+Gabriel Mendes                          081200037
 
 Gabriel Nunes Alves Santos              081200038
 
